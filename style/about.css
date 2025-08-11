@@ -1,0 +1,47 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    
+    color: brown;
+    text-align: center;
+   
+}
+#hero-btn{ 
+  text-align:center; 
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    border: 1px solid black;
+    padding: 10px 30px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    margin: 50px;
+}
+#hero-btn:hover{
+    border: 1px solid palevioletred;
+    background:palevioletred;
+    transition: 1s;
+}
+.container{
+    border: 5px;
+    padding: 10PX 30PX;
+    font-size: 14PX;
+    background:transparent;
+    margin: 20PX;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height:400px;
+}
+
+

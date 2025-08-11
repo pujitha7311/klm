@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color:brown;
+    text-align: center;
+}
+
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.course-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 5px;
+    padding: 10PX 30PX;
+    font-size: 14PX;
+    background:transparent;
+    margin: 20PX;
+   
+}
+.container h1{
+    text-align: center;
+}
+.container h2{
+    color: brown;
+}
+.puji{
+    width:100%;
+}
+.images-col{
+ flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box; 
+    
+}
+
